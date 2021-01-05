@@ -2,7 +2,7 @@ Teste para candidato(a) de Programador(a) da Maeda Soluções Técnicas:
 
 Prezado candidato(a), obrigado e seja bem vindo(a) ao nosso teste:
 
-Pedimos para que seja feito o teste conforme o estudo de caso descrito no documento "TesteCandidatoProgramador.docx".
+Pedimos para que seja feito o teste conforme o estudo de caso descrito no documento "BaseDadosBiblioteca.docx".
 
 Para tal, o candidato deverá fazer o clone desse repositório em sua máquina e commitar todos os arquivos que forem gerados em seu repositório pessoal.
 
