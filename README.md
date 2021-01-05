@@ -6,7 +6,7 @@ Pedimos para que seja feito o teste conforme o estudo de caso descrito no docume
 
 Para tal, o candidato deverá fazer o clone desse repositório em sua máquina e commitar todos os arquivos que forem gerados em seu repositório pessoal.
 
-Esse repositório do candidato deverá de ser de acesso público para que possamos acompanhar. 
+Esse repositório do candidato deverá de ser de acesso público para que possamos acompanhar, para isso o candidato deverá fornecer o link de seu repositório.
 
 E, depois de todos os arquivos e códigos forem desenvolvidos, o candidato deverá fazer um relatório final do projeto.
 
