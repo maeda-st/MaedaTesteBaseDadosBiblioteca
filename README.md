@@ -12,4 +12,4 @@ E, depois de todos os arquivos e códigos forem desenvolvidos, o candidato dever
 
 Todas as dúvidas devem ser postadas nesse repositório para mantermos um histórico de dúvidas de todo o processo.
 
-Atenciosamente Equipe Maeda Soluções Técnicas LTDA.
+Atenciosamente Equipe Maeda Soluções Técnicas.
