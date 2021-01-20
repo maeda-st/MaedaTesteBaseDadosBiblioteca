@@ -1,0 +1,13 @@
+Fases do Projeto
+
+Fases:
+
+º Levantamento dos Requisitos
+º Identificação de Entidades e Relacionamento	
+º Modelo E-R
+º Diagrama E-R
+º Dicionário de Dados
+º Normalização
+º Implementação
+º Testes Básicos
+ 
